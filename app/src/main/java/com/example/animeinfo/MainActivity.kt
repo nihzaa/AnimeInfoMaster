@@ -1,5 +1,10 @@
 package com.example.animeinfo
 
+//NIM : 10122908
+//Nama : Nizar Ihza Zulkarnain
+//Kelas : IF13
+//Last Modified : 20/05/2025
+
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
